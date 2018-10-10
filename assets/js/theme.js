@@ -634,8 +634,6 @@ var Layout = (function() {
           .remove();
         break;
     }
-  });
-})();
 
 //
 // Swiper
